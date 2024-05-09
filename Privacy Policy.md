@@ -71,7 +71,7 @@ We use your personal data to perform a contract and for communication between us
 
 <br>
 
-The personal data we collect is stored on servers in the EU. By default, the data is stored in OVH, but we may need to process your personal data in another country.
+The personal data we collect is stored on servers in the EU. By default, the data is stored in Vercel, but we may need to process your personal data in another country.
 
 <br>
 
