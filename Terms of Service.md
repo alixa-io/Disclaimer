@@ -20,7 +20,7 @@ Alixa reserves the right to change or modify these Terms at any time and in our 
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
-**"Blockchain"** refers to a decentralized peer-to-peer network of computers (“Nodes”) running specialized software (“Node software”) providing storage and retrieval of information according to a predefined set of rules (a “Protocol”). The said information is commonly referred to as Blockchain “State” or “Global State”. Given their form as a network of collaborating Nodes, Blockchains are frequently referred to as “Networks”. When used in the context of the document, terms Blockchain and Network could be used interchangeably, excluding the term “Alixa”.
+**"Blockchain"** refers to a decentralized peer-to-peer network of computers (“Nodes”) running specialised software (“Node software”) providing storage and retrieval of information according to a predefined set of rules (a “Protocol”). The said information is commonly referred to as Blockchain “State” or “Global State”. Given their form as a network of collaborating Nodes, Blockchains are frequently referred to as “Networks”. When used in the context of the document, terms Blockchain and Network could be used interchangeably, excluding the term “Alixa”.
 
 ![Grey V4](https://user-images.githubusercontent.com/60996729/235287926-6b18081e-ca41-48c7-8dfc-29cc32c598f1.png)
 
